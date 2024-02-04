@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://addons/mazeGen3D/maze.gd" type="Script" id=1]
+
+[node name="maze" type="Spatial"]
+script = ExtResource( 1 )
